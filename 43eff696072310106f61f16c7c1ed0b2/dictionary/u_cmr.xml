@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="CMR" max_length="40" name="u_cmr" sizeclass="7" type="collection">
         <element label="Enigma" mandatory="true" max_length="80" name="u_enigma" type="string"/>
+        <element label="Spy contents" max_length="4000" name="u_spy_contents" type="string"/>
+        <element attributes="edge_encryption_enabled=true,maintain_order=true,no_sort=true,slushbucket_ref_no_expand=true,start_locked=false" label="Taxonomy L3" max_length="4000" name="u_taxonomy_l3" reference="u_cmdb_ci_taxonomy" reference_qual="u_level=l3^EQ" reference_qual_condition="u_level=l3^EQ" type="glide_list"/>
     </element>
 </database>

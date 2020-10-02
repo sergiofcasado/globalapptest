@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_cmr" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_spy_contents</element>
+            <list_id display_value="u_cmr" element="NULL" name="u_cmr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9cad3e2607af90106f61f16c7c1ed0bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-02 15:02:41</sys_created_on>
+            <sys_id>50ad3e2607af90106f61f16c7c1ed0be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 15:02:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_taxonomy_l3</element>
+            <list_id display_value="u_cmr" element="NULL" name="u_cmr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9cad3e2607af90106f61f16c7c1ed0bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-02 15:02:41</sys_created_on>
+            <sys_id>50adf66a07af90106f61f16c7c1ed052</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 15:02:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_enigma</element>
+            <list_id display_value="u_cmr" element="NULL" name="u_cmr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9cad3e2607af90106f61f16c7c1ed0bc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-02 15:02:41</sys_created_on>
+            <sys_id>d0adf66a07af90106f61f16c7c1ed052</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 15:02:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_cmr</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-02 15:02:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cad3e2607af90106f61f16c7c1ed0bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_cmr</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="globalscopetest">43eff696072310106f61f16c7c1ed0b2</sys_scope>
+            <sys_update_name>sys_ui_list_u_cmr_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 15:02:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="globalscopetest">43eff696072310106f61f16c7c1ed0b2</claim_owner_scope>
+        <claim_timestamp>174e9d516370000001</claim_timestamp>
+        <metadata_update_name>sys_ui_list_u_cmr_null</metadata_update_name>
+        <previous_claim_app_version>1.0.3</previous_claim_app_version>
+        <previous_claim_name>globalscopetest</previous_claim_name>
+        <previous_claim_scope>43eff696072310106f61f16c7c1ed0b2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 15:01:30</sys_created_on>
+        <sys_id>8b5d32a607af90106f61f16c7c1ed050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 15:01:30</sys_updated_on>
+    </sys_claim>
+</record_update>

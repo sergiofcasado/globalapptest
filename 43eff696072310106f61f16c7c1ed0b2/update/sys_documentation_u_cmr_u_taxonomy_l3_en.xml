@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_taxonomy_l3" label="Taxonomy L3" language="en" table="u_cmr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_taxonomy_l3</element>
+            <help/>
+            <hint/>
+            <label>Taxonomy L3</label>
+            <language>en</language>
+            <name>u_cmr</name>
+            <plural>Taxonomy L3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-24 20:01:32</sys_created_on>
+            <sys_id>84557e4c07e710106f61f16c7c1ed0af</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Taxonomy L3</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="globalscopetest">43eff696072310106f61f16c7c1ed0b2</sys_scope>
+            <sys_update_name>sys_documentation_u_cmr_u_taxonomy_l3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 15:01:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="globalscopetest">43eff696072310106f61f16c7c1ed0b2</claim_owner_scope>
+        <claim_timestamp>174e9d546e10000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_cmr_u_taxonomy_l3_en</metadata_update_name>
+        <previous_claim_app_version>1.0.3</previous_claim_app_version>
+        <previous_claim_name>globalscopetest</previous_claim_name>
+        <previous_claim_scope>43eff696072310106f61f16c7c1ed0b2</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-02 15:01:42</sys_created_on>
+        <sys_id>4a6d326a07af90106f61f16c7c1ed08d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-02 15:01:42</sys_updated_on>
+    </sys_claim>
+</record_update>
