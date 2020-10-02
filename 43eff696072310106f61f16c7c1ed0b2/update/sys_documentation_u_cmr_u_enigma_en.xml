@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_enigma" label="Enigma" language="en" table="u_cmr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_enigma</element>
+            <help/>
+            <hint/>
+            <label>Enigma</label>
+            <language>en</language>
+            <name>u_cmr</name>
+            <plural>Enigmas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-02 14:44:44</sys_created_on>
+            <sys_id>9d89726207af90106f61f16c7c1ed013</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Enigma</sys_name>
+            <sys_package display_value="globalscopetest" source="43eff696072310106f61f16c7c1ed0b2">43eff696072310106f61f16c7c1ed0b2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="globalscopetest">43eff696072310106f61f16c7c1ed0b2</sys_scope>
+            <sys_update_name>sys_documentation_u_cmr_u_enigma_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-02 14:44:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

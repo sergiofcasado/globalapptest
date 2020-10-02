@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="CMR" max_length="40" name="u_cmr" sizeclass="7" type="collection"/>
+    <element label="CMR" max_length="40" name="u_cmr" sizeclass="7" type="collection">
+        <element label="Enigma" mandatory="true" max_length="80" name="u_enigma" type="string"/>
+    </element>
 </database>
